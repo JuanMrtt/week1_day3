@@ -1,4 +1,4 @@
-# week1_day4
+# week1_day3
 
 > CSS | Selectors
 >
